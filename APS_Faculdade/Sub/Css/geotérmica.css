@@ -1,0 +1,20 @@
+body{
+    margin-top: 3cm;
+    margin-left: 3cm;
+    margin-right: 2cm;
+    margin-bottom: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    border: 5px solid black;
+}
+
+h2{
+    text-align: center;
+    border: 5px solid black;
+    width: 500px;
+}
+
+ 

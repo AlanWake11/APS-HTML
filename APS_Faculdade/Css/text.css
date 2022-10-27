@@ -1,0 +1,127 @@
+body{
+    overflow-x: hidden;
+}
+
+#introducao{
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.background:before {
+    content: "";
+    position: absolute;  
+    z-index: -1;  
+    display: block;
+    background-image: url('../Imagens/capa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 1000px;
+    
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+}
+      
+.background {
+    position: absolute;
+    z-index: 0;
+    float: left;
+}
+
+#titulo{
+    text-align: center;
+    border: 5px solid black;
+    margin-top: 50px;
+}
+
+#temas{    
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;     
+}
+
+.txt1{ 
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 0px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.txt2{ 
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 470px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.txt3{
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 930px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.txt4{
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-top: 500px;
+    margin-left: 0px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.txt5{
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-top: 500px;
+    margin-left: 470px; 
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.txt6{
+    background-color: gray;
+    position: absolute;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-top: 500px;
+    margin-left: 930px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+    

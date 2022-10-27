@@ -1,0 +1,131 @@
+.biomassa{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 90px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.biomassa a {
+    color: white;
+    text-decoration: none;
+}
+.biomassa:hover{
+    background-color: #2cc645;
+}
+
+.oceanica{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 110px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.oceanica a {
+    color: white;
+    text-decoration: none;
+}
+.oceanica:hover{
+    background-color: #2cc645;
+}
+
+.solar{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 110px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.solar a {
+    color: white;
+    text-decoration: none;
+}
+.solar:hover{
+    background-color: #2cc645;
+}
+
+.hidrica{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 90px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.hidrica a {
+    color: white;
+    text-decoration: none;
+}
+.hidrica:hover{
+    background-color: #2cc645;
+}
+
+.geotermica{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 110px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.geotermica a {
+    color: white;
+    text-decoration: none;
+}
+.geotermica:hover{
+    background-color: #2cc645;
+}
+
+.eolica{
+    padding: 10px 8px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 145px;
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+}
+.eolica a {
+    color: white;
+    text-decoration: none;
+}
+.eolica:hover{
+    background-color: #2cc645;
+}
